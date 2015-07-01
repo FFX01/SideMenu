@@ -7,4 +7,6 @@ SideMenuStyle.css contains the basic styling elements for the menu.
 
 SideMenuScript.js contains one simple jquery function that makes the menu responsive.
 
+I will continue updating this module/plugin as I (hopefully) get better at developing.
+
 
