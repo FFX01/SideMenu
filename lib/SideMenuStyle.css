@@ -1,0 +1,37 @@
+.container {
+  width: 98%;
+  height: 96%;
+  margin: auto;
+  text-align: center;
+}
+
+.innerBox {
+  width: 20%;
+  height: 90%;
+  display:block;
+  background-color: #0000FF;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.innerBox p {
+  color: white;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+  width: 90%;
+  height: 60%;
+  margin: 5%;
+  text-align: left;
+}
+
+.hidden ul li {
+  list-style: none;
+}
+
+.hidden a {
+  color: white;
+  text-decoration: none;
+}
